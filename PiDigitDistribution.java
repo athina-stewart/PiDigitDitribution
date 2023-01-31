@@ -8,13 +8,6 @@
  *     1-11/19/2022
  */
 
-/**
- *
- *
- * @author      Athina Stewart
- * @author      Shreya Jadhav
- */
-
 import java.io.*;
 
 public class PiDigitDistribution extends Thread{
